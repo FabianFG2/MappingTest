@@ -1,1 +1,1 @@
-[{"name":"HandlerComponentFactory","superType":"Object","properties":[]},{"name":"PacketHandlerProfileConfig","superType":"Object","properties":[{"index":0,"name":"Components","mappingType":{"type":"ArrayProperty","innerType":{"type":"StrProperty"}}}]}]
+[{"name":"HandlerComponentFactory","superType":"Object","properties":[],"propertyCount":0},{"name":"PacketHandlerProfileConfig","superType":"Object","properties":[{"index":0,"name":"Components","mappingType":{"type":"ArrayProperty","innerType":{"type":"StrProperty"}}}],"propertyCount":1}]

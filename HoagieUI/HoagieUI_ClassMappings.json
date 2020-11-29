@@ -1,1 +1,1 @@
-[{"name":"FortHoagieVehicleReticle","superType":"FortHUDElementWidget","properties":[{"index":0,"name":"OwningHoagieVehicle","mappingType":{"type":"ObjectProperty"}}]}]
+[{"name":"FortHoagieVehicleReticle","superType":"FortHUDElementWidget","properties":[{"index":0,"name":"OwningHoagieVehicle","mappingType":{"type":"ObjectProperty"}}],"propertyCount":1}]

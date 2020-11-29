@@ -1,1 +1,1 @@
-[{"name":"FacialLiveLinkRemapAsset","superType":"LiveLinkRetargetAsset","properties":[{"index":0,"name":"bExtractBoneTransform","mappingType":{"type":"BoolProperty"}},{"index":1,"name":"bExtractCurve","mappingType":{"type":"BoolProperty"}}]}]
+[{"name":"FacialLiveLinkRemapAsset","superType":"LiveLinkRetargetAsset","properties":[{"index":0,"name":"bExtractBoneTransform","mappingType":{"type":"BoolProperty"}},{"index":1,"name":"bExtractCurve","mappingType":{"type":"BoolProperty"}}],"propertyCount":2}]

@@ -1,1 +1,1 @@
-[{"name":"WebJSCallbackBase","properties":[]},{"name":"WebJSResponse","superType":"WebJSCallbackBase","properties":[]},{"name":"WebJSFunction","superType":"WebJSCallbackBase","properties":[]}]
+[{"name":"WebJSCallbackBase","properties":[],"propertyCount":0},{"name":"WebJSResponse","superType":"WebJSCallbackBase","properties":[],"propertyCount":0},{"name":"WebJSFunction","superType":"WebJSCallbackBase","properties":[],"propertyCount":0}]

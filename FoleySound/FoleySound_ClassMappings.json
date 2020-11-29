@@ -1,1 +1,1 @@
-[{"name":"FoleySoundSubsystem","superType":"WorldSubsystem","properties":[]},{"name":"FoleySoundLibrary","superType":"Object","properties":[{"index":0,"name":"Sounds","mappingType":{"type":"MapProperty"}}]}]
+[{"name":"FoleySoundSubsystem","superType":"WorldSubsystem","properties":[],"propertyCount":0},{"name":"FoleySoundLibrary","superType":"Object","properties":[{"index":0,"name":"Sounds","mappingType":{"type":"MapProperty"}}],"propertyCount":2}]

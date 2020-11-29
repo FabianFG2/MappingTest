@@ -1,1 +1,1 @@
-[{"name":"LocalNotificationsSettings","superType":"DeveloperSettings","properties":[{"index":0,"name":"StringTableLocalNotifications","mappingType":{"type":"StructProperty","structType":"SoftObjectPath"}}]}]
+[{"name":"LocalNotificationsSettings","superType":"DeveloperSettings","properties":[{"index":0,"name":"StringTableLocalNotifications","mappingType":{"type":"StructProperty","structType":"SoftObjectPath"}}],"propertyCount":1}]

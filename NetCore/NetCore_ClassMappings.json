@@ -1,1 +1,1 @@
-[{"name":"NetAnalyticsAggregatorConfig","superType":"Object","properties":[{"index":0,"name":"NetAnalyticsData","mappingType":{"type":"ArrayProperty","innerType":{"type":"StructProperty","structType":"NetAnalyticsDataConfig"}}}]}]
+[{"name":"NetAnalyticsAggregatorConfig","superType":"Object","properties":[{"index":0,"name":"NetAnalyticsData","mappingType":{"type":"ArrayProperty","innerType":{"type":"StructProperty","structType":"NetAnalyticsDataConfig"}}}],"propertyCount":1}]

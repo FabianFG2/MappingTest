@@ -1,1 +1,1 @@
-[{"name":"GauntletTestController","superType":"Object","properties":[]},{"name":"GauntletTestControllerBootTest","superType":"GauntletTestController","properties":[]},{"name":"GauntletTestControllerErrorTest","superType":"GauntletTestController","properties":[]}]
+[{"name":"GauntletTestController","superType":"Object","properties":[],"propertyCount":0},{"name":"GauntletTestControllerBootTest","superType":"GauntletTestController","properties":[],"propertyCount":0},{"name":"GauntletTestControllerErrorTest","superType":"GauntletTestController","properties":[],"propertyCount":0}]

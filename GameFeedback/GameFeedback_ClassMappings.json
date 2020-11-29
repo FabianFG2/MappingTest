@@ -1,1 +1,1 @@
-[{"name":"LogOptions","superType":"Object","properties":[{"index":0,"name":"LogOptions","mappingType":{"type":"ArrayProperty","innerType":{"type":"StructProperty","structType":"LogSubmitOptions"}}}]}]
+[{"name":"LogOptions","superType":"Object","properties":[{"index":0,"name":"LogOptions","mappingType":{"type":"ArrayProperty","innerType":{"type":"StructProperty","structType":"LogSubmitOptions"}}}],"propertyCount":1}]

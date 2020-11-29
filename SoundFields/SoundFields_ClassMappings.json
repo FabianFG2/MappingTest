@@ -1,1 +1,1 @@
-[{"name":"AmbisonicsEncodingSettings","superType":"SoundfieldEncodingSettingsBase","properties":[{"index":0,"name":"AmbisonicsOrder","mappingType":{"type":"IntProperty"}}]}]
+[{"name":"AmbisonicsEncodingSettings","superType":"SoundfieldEncodingSettingsBase","properties":[{"index":0,"name":"AmbisonicsOrder","mappingType":{"type":"IntProperty"}}],"propertyCount":1}]

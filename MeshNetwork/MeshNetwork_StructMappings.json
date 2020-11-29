@@ -1,1 +1,1 @@
-[{"name":"NoAggregationParameters","properties":[{"index":0,"name":"Parameters","mappingType":{"type":"SetProperty"}}]},{"name":"AggregatedFunction","properties":[]},{"name":"MeshMetaDataStruct","properties":[]}]
+[{"name":"NoAggregationParameters","properties":[{"index":0,"name":"Parameters","mappingType":{"type":"SetProperty"}}],"propertyCount":1},{"name":"AggregatedFunction","properties":[],"propertyCount":1},{"name":"MeshMetaDataStruct","properties":[],"propertyCount":0}]

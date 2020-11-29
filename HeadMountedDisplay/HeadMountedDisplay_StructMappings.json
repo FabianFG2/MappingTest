@@ -1,1 +1,1 @@
-[{"name":"XRDeviceId","properties":[{"index":0,"name":"SystemName","mappingType":{"type":"NameProperty"}},{"index":1,"name":"DeviceID","mappingType":{"type":"IntProperty"}}]}]
+[{"name":"XRDeviceId","properties":[{"index":0,"name":"SystemName","mappingType":{"type":"NameProperty"}},{"index":1,"name":"DeviceID","mappingType":{"type":"IntProperty"}}],"propertyCount":2}]

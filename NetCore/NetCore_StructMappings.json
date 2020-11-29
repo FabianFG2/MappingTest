@@ -1,1 +1,1 @@
-[{"name":"NetAnalyticsDataConfig","properties":[{"index":0,"name":"DataName","mappingType":{"type":"NameProperty"}},{"index":1,"name":"bEnabled","mappingType":{"type":"BoolProperty"}}]}]
+[{"name":"NetAnalyticsDataConfig","properties":[{"index":0,"name":"DataName","mappingType":{"type":"NameProperty"}},{"index":1,"name":"bEnabled","mappingType":{"type":"BoolProperty"}}],"propertyCount":2}]

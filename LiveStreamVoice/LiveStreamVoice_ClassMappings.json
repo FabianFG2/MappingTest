@@ -1,1 +1,1 @@
-[{"name":"LiveStreamVoiceChannel","superType":"Channel","properties":[]},{"name":"LiveStreamVoiceSubsystem","superType":"GameInstanceSubsystem","properties":[{"index":0,"name":"PlaybackSettings","mappingType":{"type":"StructProperty","structType":"VoiceSettings"}}]}]
+[{"name":"LiveStreamVoiceChannel","superType":"Channel","properties":[],"propertyCount":0},{"name":"LiveStreamVoiceSubsystem","superType":"GameInstanceSubsystem","properties":[{"index":0,"name":"PlaybackSettings","mappingType":{"type":"StructProperty","structType":"VoiceSettings"}}],"propertyCount":1}]
