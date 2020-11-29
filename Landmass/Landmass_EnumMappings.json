@@ -1,0 +1,1 @@
+[{"name":"EBrushFalloffMode","type":"uint8_t","values":["Angle","Width","EBrushFalloffMode_MAX"]},{"name":"EBrushBlendType","type":"uint8_t","values":["AlphaBlend","Min","Max","Additive"]}]

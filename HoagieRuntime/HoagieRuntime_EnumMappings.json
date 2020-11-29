@@ -1,0 +1,1 @@
+[{"name":"EHoagieBoostState","type":"uint8_t","values":["Unknown","Ready","Started","Finished","Failed","EHoagieBoostState_MAX"]}]

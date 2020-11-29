@@ -1,0 +1,1 @@
+[{"name":"EMoviePlaybackType","type":"uint8_t","values":["MT_Normal","MT_Looped","MT_LoadingLoop","MT_MAX"]}]

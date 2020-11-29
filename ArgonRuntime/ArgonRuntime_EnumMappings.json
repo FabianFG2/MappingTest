@@ -1,0 +1,1 @@
+[{"name":"EArgonRacePhase","type":"uint8_t","values":["None","TeleportingPlayers","PreRaceSequence","RaceActive","PostRaceSequence","RaceEnded","MAX"]}]

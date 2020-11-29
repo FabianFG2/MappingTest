@@ -1,0 +1,1 @@
+[{"name":"MediaCaptureDevice","properties":[]},{"name":"MediaSoundComponentSpectralData","properties":[{"index":0,"name":"FrequencyHz","mappingType":{"type":"FloatProperty"}},{"index":1,"name":"Magnitude","mappingType":{"type":"FloatProperty"}}]}]

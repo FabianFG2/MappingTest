@@ -1,0 +1,1 @@
+[{"name":"EDataAssetDirectoryUpdateStatus","type":"uint8_t","values":["Failed","Success","SuccessNoChange","EDataAssetDirectoryUpdateStatus_MAX"]}]

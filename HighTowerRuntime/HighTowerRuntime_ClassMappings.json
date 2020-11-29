@@ -1,0 +1,1 @@
+[{"name":"AFortAthenaMutator_HighTowerAbilityIntro","properties":[{"index":0,"name":"ShowAbilityIntroTag","mappingType":{"type":"StructProperty","structType":"GameplayTag"}},{"index":1,"name":"bPlayOnlyOnce","mappingType":{"type":"BoolProperty"}}]},{"name":"FortItemLayerAnimInstance_DateGaunlets","superType":"FortBaseLayerAnimInstance","properties":[]}]

@@ -1,0 +1,1 @@
+[{"name":"AudioAnalyzerAsset","superType":"Object","properties":[]},{"name":"AudioAnalyzerNRTSettings","superType":"AudioAnalyzerAsset","properties":[]},{"name":"AudioAnalyzerNRT","superType":"AudioAnalyzerAsset","properties":[{"index":0,"name":"Sound","mappingType":{"type":"ObjectProperty"}},{"index":1,"name":"DurationInSeconds","mappingType":{"type":"FloatProperty"}}]}]

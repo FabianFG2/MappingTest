@@ -1,0 +1,1 @@
+[{"name":"EInAppPurchaseState","type":"uint8_t","values":["Unknown","Success","Failed","Cancelled","Invalid","NotAllowed","Restored","AlreadyOwned","EInAppPurchaseState_MAX"]},{"name":"EMPMatchOutcome","type":"uint8_t","values":["None","Quit","Won","Lost","Tied","TimeExpired","First","Second","Third","Fourth","EMPMatchOutcome_MAX"]}]

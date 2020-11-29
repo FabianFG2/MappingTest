@@ -1,0 +1,1 @@
+[{"name":"FortAthenaVehicleDashboardWidget_Valet","superType":"FortAthenaVehicleDashboardWidget","properties":[{"index":0,"name":"Text_ItemName","mappingType":{"type":"ObjectProperty"}}]},{"name":"FortMobileActionButtonBehavior_ValetBoost","superType":"FortMobileActionButtonBehavior","properties":[]}]

@@ -1,0 +1,1 @@
+[{"name":"ELiveLinkAxis","type":"uint8_t","values":["X","Y","Z","XNeg","YNeg","ZNeg","ELiveLinkAxis_MAX"]},{"name":"ELiveLinkTimecodeProviderEvaluationType","type":"uint8_t","values":["Lerp","Nearest","Latest","ELiveLinkTimecodeProviderEvaluationType_MAX"]}]

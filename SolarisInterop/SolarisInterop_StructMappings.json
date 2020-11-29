@@ -1,0 +1,1 @@
+[{"name":"VerseIntRange","properties":[{"index":0,"name":"Left","mappingType":{"type":"IntProperty"}},{"index":1,"name":"Right","mappingType":{"type":"IntProperty"}}]}]

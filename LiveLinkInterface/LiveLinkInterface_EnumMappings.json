@@ -1,0 +1,1 @@
+[{"name":"ELiveLinkCameraProjectionMode","type":"uint8_t","values":["Perspective","Orthographic","ELiveLinkCameraProjectionMode_MAX"]},{"name":"ELiveLinkSourceMode","type":"uint8_t","values":["Latest","EngineTime","Timecode","ELiveLinkSourceMode_MAX"]}]

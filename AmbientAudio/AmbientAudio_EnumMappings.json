@@ -1,0 +1,1 @@
+[{"name":"EAmbientAudioTagActionType","type":"uint8_t","values":["Added","Removed","Count","EAmbientAudioTagActionType_MAX"]},{"name":"EAmbientAudioEntryActionType","type":"uint8_t","values":["Added","Updated","Removed","Count","EAmbientAudioEntryActionType_MAX"]}]

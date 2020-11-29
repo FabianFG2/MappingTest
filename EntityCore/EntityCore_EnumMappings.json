@@ -1,0 +1,1 @@
+[{"name":"EMovementType","type":"uint8_t","values":["SweepPhysics","TeleportPhysics","ResetPhysics","EMovementType_MAX"]}]

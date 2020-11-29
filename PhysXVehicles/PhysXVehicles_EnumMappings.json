@@ -1,0 +1,1 @@
+[{"name":"EWheelSweepType","type":"uint8_t","values":["SimpleAndComplex","Simple","Complex","EWheelSweepType_MAX"]},{"name":"EVehicleDifferential4W","type":"uint8_t","values":["LimitedSlip_4W","LimitedSlip_FrontDrive","LimitedSlip_RearDrive","Open_4W","Open_FrontDrive","Open_RearDrive","EVehicleDifferential4W_MAX"]}]

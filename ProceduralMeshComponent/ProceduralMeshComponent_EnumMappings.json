@@ -1,0 +1,1 @@
+[{"name":"EProcMeshSliceCapOption","type":"uint8_t","values":["NoCap","CreateNewSectionForCap","UseLastSectionForCap","EProcMeshSliceCapOption_MAX"]}]

@@ -1,0 +1,1 @@
+[{"name":"EChaosWeightMapTarget","type":"uint8_t","values":["None","MaxDistance","BackstopDistance","BackstopRadius","AnimDriveMultiplier","EChaosWeightMapTarget_MAX"]}]

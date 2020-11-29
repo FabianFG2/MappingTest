@@ -1,0 +1,1 @@
+[{"name":"AndroidPermissionCallbackProxy","superType":"Object","properties":[{"index":0,"name":"OnPermissionsGrantedDynamicDelegate","mappingType":{"type":"MulticastDelegateProperty"}}]},{"name":"AndroidPermissionFunctionLibrary","superType":"BlueprintFunctionLibrary","properties":[]}]

@@ -1,0 +1,1 @@
+[{"name":"EOnlineRadioSourceType","type":"uint8_t","values":["Epic","EOnlineRadioSourceType_MAX"]},{"name":"ERadioSource","type":"uint8_t","values":["Invalid","Vehicle","ERadioSource_MAX"]},{"name":"EStreamingRadioSourceState","type":"uint8_t","values":["None","Loading","LoadingPlayer","LoadedPlayer","Playing","EStreamingRadioSourceState_MAX"]}]

@@ -1,0 +1,1 @@
+[{"name":"EHydrogenCaptureStateEnum","type":"uint8_t","values":["Contested","Capturing","Erasing","Idle","Captured","EHydrogenCaptureStateEnum_MAX"]}]

@@ -1,0 +1,1 @@
+[{"name":"EGameplayBehaviorInstantiationPolicy","type":"uint8_t","values":["Instantiate","ConditionallyInstantiate","DontInstantiate","EGameplayBehaviorInstantiationPolicy_MAX"]}]

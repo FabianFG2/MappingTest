@@ -1,0 +1,1 @@
+[{"name":"EMeshNetworkNodeType","type":"uint8_t","values":["Root","Inner","Edge","Client","Unknown","EMeshNetworkNodeType_MAX"]},{"name":"EMeshNetworkRelevancy","type":"uint8_t","values":["NotRelevant","RelevantToEdgeNodes","RelevantToClients","EMeshNetworkRelevancy_MAX"]}]

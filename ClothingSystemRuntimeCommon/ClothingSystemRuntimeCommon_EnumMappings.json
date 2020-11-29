@@ -1,0 +1,1 @@
+[{"name":"EClothingWindMethod_Legacy","type":"uint8_t","values":["Legacy","Accurate","EClothingWindMethod_MAX"]},{"name":"EWeightMapTargetCommon","type":"uint8_t","values":["None","MaxDistance","BackstopDistance","BackstopRadius","AnimDriveMultiplier","EWeightMapTargetCommon_MAX"]}]

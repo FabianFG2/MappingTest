@@ -1,0 +1,1 @@
+[{"name":"EEpicLeaderboardUpdateFunction","type":"uint8_t","values":["Min","Max","Sum","MostRecent"]},{"name":"EEpicLeaderboardTimeWindow","type":"uint8_t","values":["Daily","Weekly","Monthly","AllTime","EEpicLeaderboardTimeWindow_MAX"]},{"name":"EEpicLeaderboardDataType","type":"uint8_t","values":["Integer","Double","EEpicLeaderboardDataType_MAX"]}]

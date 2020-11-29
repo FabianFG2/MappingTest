@@ -1,0 +1,1 @@
+[{"name":"MagicLeapARPinState","properties":[{"index":0,"name":"Confidence","mappingType":{"type":"FloatProperty"}},{"index":1,"name":"ValidRadius","mappingType":{"type":"FloatProperty"}},{"index":2,"name":"RotationError","mappingType":{"type":"FloatProperty"}},{"index":3,"name":"TranslationError","mappingType":{"type":"FloatProperty"}}]}]

@@ -1,0 +1,1 @@
+[{"name":"ELobbyBeaconJoinState","type":"uint8_t","values":["None","SentJoinRequest","JoinRequestAcknowledged","ELobbyBeaconJoinState_MAX"]}]

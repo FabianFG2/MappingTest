@@ -1,0 +1,1 @@
+[{"name":"AutoCompleteCommand","properties":[{"index":0,"name":"Command","mappingType":{"type":"StrProperty"}},{"index":1,"name":"Desc","mappingType":{"type":"StrProperty"}}]},{"name":"GameModeName","properties":[{"index":0,"name":"Name","mappingType":{"type":"StrProperty"}},{"index":1,"name":"GameMode","mappingType":{"type":"StructProperty","structType":"SoftClassPath"}}]}]

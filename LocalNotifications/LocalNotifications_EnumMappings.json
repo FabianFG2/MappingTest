@@ -1,0 +1,1 @@
+[{"name":"ELocalNotificationEventType","type":"uint8_t","values":["None","FirstLogin","Max"]},{"name":"ELocalNotificationParams","type":"uint8_t","values":["BestHour24ToNotify","SpecificFireDateTime","HoursSinceLastSession","HoursAfterEvent_Max","HoursAfterEvent_Min","Max"]},{"name":"ELocalNotificationType","type":"uint8_t","values":["SpecificDateTime","RangeDateTime","Max"]}]

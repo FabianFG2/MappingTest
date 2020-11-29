@@ -1,0 +1,1 @@
+[{"name":"EMeshTrackerVertexColorMode","type":"uint8_t","values":["None","Confidence","Block","EMeshTrackerVertexColorMode_MAX"]}]

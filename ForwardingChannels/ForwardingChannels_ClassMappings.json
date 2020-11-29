@@ -1,0 +1,1 @@
+[{"name":"ForwardingChannelFactory","superType":"Interface","properties":[]},{"name":"ForwardingChannelsSubsystem","superType":"GameInstanceSubsystem","properties":[{"index":0,"name":"ForwardingChannelFactories","mappingType":{"type":"ArrayProperty","innerType":{"type":"InterfaceProperty"}}}]}]

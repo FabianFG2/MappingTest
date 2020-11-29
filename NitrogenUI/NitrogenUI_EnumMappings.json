@@ -1,0 +1,1 @@
+[{"name":"ENitrogenFareObjectiveDisplayState","type":"uint8_t","values":["Default","Success","Failure","ENitrogenFareObjectiveDisplayState_MAX"]},{"name":"ENitrogenObjectiveWidgetState","type":"uint8_t","values":["ENitrogenObjectiveWidgetState_Hidden","ENitrogenObjectiveWidgetState_FindFare","ENitrogenObjectiveWidgetState_FindTaxi","ENitrogenObjectiveWidgetState_MAX"]}]

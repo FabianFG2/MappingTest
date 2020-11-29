@@ -1,0 +1,1 @@
+[{"name":"EVoteSessionState","type":"uint8_t","values":["None","Setup","Voting","Complete","Shutdown","EVoteSessionState_MAX"]},{"name":"EVoteSessionNetworkType","type":"uint8_t","values":["NotDetermined","DedicatedServer","MeshNetwork","EVoteSessionNetworkType_MAX"]},{"name":"EVoteState","type":"uint8_t","values":["None","Setup","Active","Completed","EVoteState_MAX"]}]

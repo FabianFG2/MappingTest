@@ -1,0 +1,1 @@
+[{"name":"EQosResponseType","type":"uint8_t","values":["NoResponse","Success","Failure","EQosResponseType_MAX"]},{"name":"EQosCompletionResult","type":"uint8_t","values":["Invalid","Success","Failure","Canceled","EQosCompletionResult_MAX"]},{"name":"EQosDatacenterResult","type":"uint8_t","values":["Invalid","Success","Incomplete","EQosDatacenterResult_MAX"]}]

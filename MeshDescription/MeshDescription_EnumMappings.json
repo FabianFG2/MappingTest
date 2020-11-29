@@ -1,0 +1,1 @@
+[{"name":"EComputeNTBsOptions","type":"uint8_t","values":["None","Normals","Tangents","WeightedNTBs","EComputeNTBsOptions_MAX"]}]

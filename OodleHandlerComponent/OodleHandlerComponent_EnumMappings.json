@@ -1,0 +1,1 @@
+[{"name":"EOodleEnableMode","type":"uint8_t","values":["AlwaysEnabled","WhenCompressedPacketReceived","EOodleEnableMode_MAX"]}]

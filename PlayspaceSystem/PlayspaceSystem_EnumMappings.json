@@ -1,0 +1,1 @@
+[{"name":"EPlayspaceCreationType","type":"uint8_t","values":["ChildOfRoot","RootDestroy","RootInserted","EPlayspaceCreationType_MAX"]}]

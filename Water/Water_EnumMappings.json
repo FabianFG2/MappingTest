@@ -1,0 +1,1 @@
+[{"name":"EWaterBodyType","type":"uint8_t","values":["River","Lake","Ocean","Transition","EWaterBodyType_MAX"]},{"name":"EWaterBrushBlendType","type":"uint8_t","values":["AlphaBlend","Min","Max","Additive"]},{"name":"EWaterBrushFalloffMode","type":"uint8_t","values":["Angle","Width","EWaterBrushFalloffMode_MAX"]}]

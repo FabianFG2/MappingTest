@@ -1,0 +1,1 @@
+[{"name":"EEyeTrackerStatus","type":"uint8_t","values":["NotConnected","NotTracking","Tracking","EEyeTrackerStatus_MAX"]}]

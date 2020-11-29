@@ -1,0 +1,1 @@
+[{"name":"NitrogenLeaderboardData","properties":[{"index":0,"name":"TeamName","mappingType":{"type":"TextProperty"}},{"index":1,"name":"TeamScore","mappingType":{"type":"IntProperty"}},{"index":2,"name":"TeamPlacement","mappingType":{"type":"IntProperty"}},{"index":3,"name":"bEnemyTeam","mappingType":{"type":"BoolProperty"}}]}]
