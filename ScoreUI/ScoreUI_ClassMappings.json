@@ -1,0 +1,1 @@
+[{"name":"ScoreWidgetBase","superType":"LTMWidgetBase","properties":[{"index":0,"name":"CachedScoreMutator","mappingType":{"type":"ObjectProperty","objectType":"AFortAthenaMutator_Score"}}],"propertyCount":1},{"name":"ScoreTeamNotificationWidget","superType":"ScoreWidgetBase","properties":[],"propertyCount":0}]

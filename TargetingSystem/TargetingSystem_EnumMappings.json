@@ -1,0 +1,1 @@
+[{"name":"ETargetingAOEShape","type":"uint8_t","values":["Box","Cylinder","Sphere","Capsule","SourceComponent","ETargetingAOEShape_MAX"]},{"name":"ETargetingTraceType","type":"uint8_t","values":["Line","Sweep","ETargetingTraceType_MAX"]}]

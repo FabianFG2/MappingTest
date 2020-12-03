@@ -1,1 +1,1 @@
-[{"name":"ItemData","properties":[{"index":0,"name":"Icon","mappingType":{"type":"SoftObjectProperty"}},{"index":1,"name":"Name","mappingType":{"type":"TextProperty"}}],"propertyCount":2}]
+[{"name":"ItemData","properties":[{"index":0,"name":"Icon","mappingType":{"type":"SoftObjectProperty","objectType":"Texture2D"}},{"index":1,"name":"Name","mappingType":{"type":"TextProperty"}}],"propertyCount":2}]

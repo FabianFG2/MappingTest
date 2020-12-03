@@ -1,1 +1,1 @@
-[]
+[{"name":"EScoreLTMScoreEvent","type":"uint8_t","values":["None","Elimination","ChestOpened","AmmoCanOpened","SupplyDropOpened","SupplyLlamaOpened","ForagedItemConsumed","CollectedCoinBronze","CollectedCoinSilver","CollectedCoinGold","CaughtItemInFishingPool","CaughtItemInOpenWater","BoxOpened","MAX"]}]

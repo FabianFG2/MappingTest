@@ -1,0 +1,1 @@
+[{"name":"ECannotBuyReason","type":"uint8_t","values":["CannotAfford","OutOfStock","ECannotBuyReason_MAX"]}]
